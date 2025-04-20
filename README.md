@@ -24,14 +24,13 @@ Actualmente, estoy trabajando en proyectos web y apps educativas que integran m�
 
 ## 🛠 Tecnologías que manejo
 
-```python
-tecnologias = {
-  "lenguajes": ["Python", "HTML", "CSS", "JavaScript"],
-  "frameworks": ["Kivy", "Reflex"],
-  "bases_de_datos": ["SQLite"],
-  "herramientas": ["Git", "GitHub", "VS Code"],
-  "intereses": ["Automatización", "Desarrollo web", "Educación digital"]
-}
+| Categoría       | Tecnologías                            |
+|-----------------|----------------------------------------|
+| Lenguajes       | Python, HTML, CSS, JavaScript          |
+| Frameworks      | Kivy, Reflex                           |
+| Bases de datos  | SQLite                                 |
+| Herramientas    | Git, GitHub, VS Code                   |
+| Intereses       | Automatización, Desarrollo web, Educación digital |
 
 
 
