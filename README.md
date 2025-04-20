@@ -1,76 +1,66 @@
-### Hi there 👋 I'm Diego C
+# 👋 ¡Hola! Soy Diego Cortés Hurtado
 
-### Soy estudiante de informática. Apasionado por la tecnología y la música. ¿Por qué digo esto? ¡Porque además de ser estudiante, también soy profesor de música! Ya he logrado una carrera en la pedagogía, enseñando a niños y jóvenes sobre este noble arte que es la música, pero he decidido seguir mi pasión por la tecnología y comenzar una nueva carrera en ingeniería en informática. Sígueme en [@diego.8bit](https://instagram.com/diego.8bit?igshid=ZDdkNTZiNTM=)
+🎵 Profesor de Música | 💻 Estudiante de Ingeniería en Informática | 🚀 Apasionado por la tecnología, el arte y la educación
 
-![LETRERO DE UNDER CONSTRUCTION](https://www.phoenix.gov/eodsite/SiteAssets/Pages/Site-Under-Construction/website-construction-graphic-4.jpg)
+---
 
-------
+## ✨ Sobre mí
 
-- :man_technologist: Give a look to the programing couses repository (Revisa el repositoio de los cursos de programación):
-    - [Clase 1 Clases de programación - github](https://github.com/Adricego/clase1---clasesprogramacion-github) 
+Soy un profesional curioso y comprometido con la enseñanza y la innovación. Después de varios años como profesor de música, decidí iniciar una nueva etapa en mi vida: estudiar Ingeniería en Computación e Informática. Mi propósito es combinar el mundo educativo con el tecnológico, desarrollando herramientas que potencien el aprendizaje y la creatividad.
 
--------
+Actualmente, estoy trabajando en proyectos web y apps educativas que integran música, programación y diseño centrado en el usuario.
 
-> "La tecnología es solo un medio para lograr un fin. Su verdadero potencial radica en su capacidad para ayudarnos a conectarnos mejor como seres humanos" - Yves Behar - Diseñador, empresario y educador estadounidense
+---
 
---------
+## 👨‍🏫 Experiencia y formación
 
-### Acerca de mi
+- Profesor de música (básica y media) con más de 6 años de experiencia.
+- Diplomado en Gestión y Liderazgo Educacional.
+- Estudiante de Ingeniería en Computación e Informática - UNAB.
+- Cursos en Python, JavaScript, HTML, CSS y ciberseguridad.
+- Formación en desarrollo web (Ucamp y Microsoft Learn).
 
-1. Actualmente me desempeño como profesor de música, trabajando en un colegio
-2. Estudió Ing. en Informática, ya que es mi segunda pasión, y quisiera ampliar mis conocimientos en esta area y desarrollar una carrera que involucre la investigación en tecnología.
-3. Me encuentro realizando un curso de programación para complementar mis conocimientos.
+---
 
-```Python
-# Esto es un diccionario en Python
-acerca_de_mi = {
-    gatos: True,
-    perros: True,
-    Country: "Chilean",
-    age: 29,
-    city: "Valparaíso"
-    Main_lenguages: [
-        "Python", "CSS", "HTML", "JavaScript"
-    ]
+## 🛠 Tecnologías que manejo
+
+```python
+tecnologias = {
+  "lenguajes": ["Python", "HTML", "CSS", "JavaScript"],
+  "frameworks": ["Reflex"],
+  "intereses": ["Automatización", "Desarrollo web", "Educación digital"]
 }
 
-```
+## 💼 Proyectos destacados
 
-### Sígueme en Instagram:
-**@diego.8bit**
-[![TEXTO ALTERNATIVO](https://logospng.org/download/instagram/logo-instagram-256.png)](https://instagram.com/diego.8bit?igshid=ZDdkNTZiNTM=)
+- 🎒 [Portafolio Web Personal](https://github.com/Adricego/portafolio)  
+  Página web para mostrar mi perfil profesional y proyectos. Hecha con HTML, CSS y JavaScript.
 
-*100 seguidores*
+- ✅ [To-Do List con Kivy y SQLite](https://github.com/Adricego/to-do-app)  
+  Aplicación móvil desarrollada con Python y Kivy, permite gestionar tareas con almacenamiento local.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a0Cb4VsSd3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- 📘 [Clases de Programación - GitHub](https://github.com/Adricego/clase1---clasesprogramacion-github)  
+  Repositorio para acompañar a estudiantes en sus primeras clases de programación.
 
-## Mis recorridos por rutas EE.UU y Europa.
+---
 
-ejemplo de tabla
+## 🧠 Cursos realizados
 
-| Cursos | Plataforma | ¿Costo |
-|--------|------------|--------|
-|[Fundamentos de programación en Python](https://ucamp.io/curso-python/)| UCamp | Con costo |
-| [Bootcamp en ciencia de datos e Inteligencia Artificial](https://ucamp.io/curso-ciencia-de-datos/) | UCamp | Con costo|
-| Ciberseguridad y fundamentos de hacking ético | [Suscripción en Twitch o Miembro en Youtube](https://www.twitch.tv/brujeriatech) | Con costo | 
-| Curso de programación desde cero, en español y gratis | [Twitch(grabaciones en Youtube)](https://www.twitch.tv/brujeriatech) | Gratis |
+| Curso | Plataforma | Costo |
+|-------|------------|-------|
+| [Fundamentos de Python](https://ucamp.io/curso-python/) | Ucamp | 💰 |
+| [Bootcamp IA y Ciencia de Datos](https://ucamp.io/curso-ciencia-de-datos/) | Ucamp | 💰 |
+| Ciberseguridad y Hacking Ético | [Brujería Tech - Twitch](https://www.twitch.tv/brujeriatech) | 💰 |
+| Programación desde cero | [Gratis en YouTube](https://www.youtube.com/@brujeriatech) | ✅ |
 
-~~Más cursos~~
+---
 
+## 📲 Redes sociales
 
+- 📸 [@diego.8bit en Instagram](https://instagram.com/diego.8bit?igshid=ZDdkNTZiNTM=)
+- 🐙 [GitHub: Adricego](https://github.com/Adricego)
 
+---
 
-<!--
-**Adricego/Adricego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “La tecnología es solo un medio para lograr un fin. Su verdadero potencial radica en su capacidad para ayudarnos a conectarnos mejor como seres humanos.”  
+> — *Yves Béhar*
