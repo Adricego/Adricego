@@ -36,10 +36,10 @@ Actualmente, estoy trabajando en proyectos web y apps educativas que integran m�
 
 ## 💼 Proyectos destacados
 
-- 🎒 [Portafolio Web Personal](https://github.com/Adricego/portafolio)  
+- 🎒 [Portafolio Web Personal](https://adricego.github.io/myPortfolio/)  
   Página web para mostrar mi perfil profesional y proyectos. Hecha con HTML, CSS y JavaScript.
 
-- ✅ [To-Do List con Kivy y SQLite](https://github.com/Adricego/to-do-app)  
+- ✅ [To-Do List con Kivy y SQLite](https://github.com/Adricego/toDoList)  
   Aplicación móvil desarrollada con Python y Kivy, permite gestionar tareas con almacenamiento local.
 
 - 📘 [Clases de Programación - GitHub](https://github.com/Adricego/clase1---clasesprogramacion-github)  
