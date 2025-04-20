@@ -27,9 +27,13 @@ Actualmente, estoy trabajando en proyectos web y apps educativas que integran m�
 ```python
 tecnologias = {
   "lenguajes": ["Python", "HTML", "CSS", "JavaScript"],
-  "frameworks": ["Reflex"],
+  "frameworks": ["Kivy", "Reflex"],
+  "bases_de_datos": ["SQLite"],
+  "herramientas": ["Git", "GitHub", "VS Code"],
   "intereses": ["Automatización", "Desarrollo web", "Educación digital"]
 }
+
+
 
 ## 💼 Proyectos destacados
 
