@@ -1,8 +1,10 @@
 # 👋 ¡Hola! Soy Diego Cortés Hurtado
 
-🎵 Profesor de Música | 💻 Estudiante de Ingeniería en Informática | 🚀 Apasionado por la tecnología, el arte y la educación
+Soy Ingeniero en Computación e Informática (Chile) con enfoque en desarrollo web full stack a nivel inicial. También tengo formación en docencia, lo que me ha dado herramientas sólidas en comunicación, trabajo en equipo y documentación clara.
+Busco oportunidades donde pueda seguir aprendiendo, aportar desde lo técnico, y crecer en proyectos reales con buenas prácticas.
 
----
+| 💻 Ingeniero en Computación e Informática |🎵 Profesor de Música | 🚀 Apasionado por la tecnología, el arte y la educación
+
 
 ## ✨ Sobre mí
 
@@ -10,28 +12,34 @@ Soy un profesional curioso y comprometido con la enseñanza y la innovación. De
 
 Actualmente, estoy trabajando en proyectos web y apps educativas que integran música, programación y diseño centrado en el usuario.
 
----
-
-## 👨‍🏫 Experiencia y formación
-
-- Profesor de música (básica y media) con más de 6 años de experiencia.
-- Diplomado en Gestión y Liderazgo Educacional.
-- Estudiante de Ingeniería en Computación e Informática - UNAB.
-- Cursos en Python, JavaScript, HTML, CSS y ciberseguridad.
-- Formación en desarrollo web (Ucamp y Microsoft Learn).
-
----
 
 ## 🛠 Tecnologías que manejo
 
+- Desarrollo de prototipos web simples con **Python (Flask)** y **JavaScript (React + Vite)**
+- Consumo de APIs REST y operaciones CRUD
+- Gestión de versiones con **Git y GitHub** (branching, PRs, merge)
+- Automatización básica con Python y SQL
+- Comunicación clara y documentación sencilla
+- Búsqueda de soluciones técnicas autónoma y con IA (ChatGPT)
+
+
+## 🧰 Stack actual
+
 | Categoría       | Tecnologías                            |
 |-----------------|----------------------------------------|
-| Lenguajes       | Python, HTML, CSS, JavaScript          |
-| Frameworks      | Kivy, Reflex                           |
-| Bases de datos  | SQLite                                 |
+| Lenguajes       | Python, HTML, CSS, JavaScript – *nivel básico/intermedio* |
+| Frameworks      | Flask, React + Vite – *en progreso*                       |
+| Bases de datos  | MySQL – *nivel básico*                              |
 | Herramientas    | Git, GitHub, VS Code                   |
 | Intereses       | Automatización, Desarrollo web, Educación digital |
 
+
+## 🧠 Cómo resuelvo problemas
+
+1. Investigo en documentación oficial, foros o YouTube
+2. Prototipo con ejemplos simples y pruebas manuales
+3. Documento lo aprendido (notas, README, comentarios)
+4. Si es necesario, pido retroalimentación a colegas o IA
 
 
 ## 💼 Proyectos destacados
@@ -45,7 +53,6 @@ Actualmente, estoy trabajando en proyectos web y apps educativas que integran m�
 - 📘 [Clases de Programación - GitHub](https://github.com/Adricego/clase1---clasesprogramacion-github)  
   Repositorio para acompañar a estudiantes en sus primeras clases de programación.
 
----
 
 ## 🧠 Cursos realizados
 
@@ -56,7 +63,6 @@ Actualmente, estoy trabajando en proyectos web y apps educativas que integran m�
 | Ciberseguridad y Hacking Ético | [Brujería Tech - Twitch](https://www.twitch.tv/brujeriatech) | 💰 |
 | Programación desde cero | [Gratis en YouTube](https://www.youtube.com/@brujeriatech) | ✅ |
 
----
 
 ## 📲 Redes sociales
 
