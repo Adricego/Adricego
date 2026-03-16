@@ -5,15 +5,9 @@ Busco oportunidades donde pueda seguir aprendiendo, aportar desde lo técnico, y
 
 | 💻 Ingeniero en Computación e Informática |🎵 Profesor de Música | 🚀 Apasionado por la tecnología, el arte y la educación
 
-
-## ✨ Sobre mí
-
-Soy un profesional curioso y comprometido con la enseñanza y la innovación. Después de varios años como profesor de música, decidí iniciar una nueva etapa en mi vida: estudiar Ingeniería en Computación e Informática. Mi propósito es combinar el mundo educativo con el tecnológico, desarrollando herramientas que potencien el aprendizaje y la creatividad.
-
-Actualmente, estoy trabajando en proyectos web y apps educativas que integran música, programación y diseño centrado en el usuario.
-
-
 ## 🛠 Tecnologías que manejo
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,nodejs,react,vite,mysql,postgres,docker,postman,figma,git,github,vscode,windows,npm,pnpm,md)](https://skillicons.dev)
 
 - Desarrollo de prototipos web simples con **Python (Flask)** y **JavaScript (React + Vite)**
 - Consumo de APIs REST y operaciones CRUD
@@ -23,17 +17,6 @@ Actualmente, estoy trabajando en proyectos web y apps educativas que integran m�
 - Búsqueda de soluciones técnicas autónoma y con IA (ChatGPT)
 
 
-## 🧰 Stack actual
-
-| Categoría       | Tecnologías                            |
-|-----------------|----------------------------------------|
-| Lenguajes       | Python, HTML, CSS, JavaScript – *nivel básico/intermedio* |
-| Frameworks      | Flask, React + Vite – *en progreso*                       |
-| Bases de datos  | MySQL – *nivel básico*                              |
-| Herramientas    | Git, GitHub, VS Code                   |
-| Intereses       | Automatización, Desarrollo web, Educación digital |
-
-
 ## 🧠 Cómo resuelvo problemas
 
 1. Investigo en documentación oficial, foros o YouTube
@@ -41,33 +24,25 @@ Actualmente, estoy trabajando en proyectos web y apps educativas que integran m�
 3. Documento lo aprendido (notas, README, comentarios)
 4. Si es necesario, pido retroalimentación a colegas o IA
 
+## GitHub Stats
 
-## 💼 Proyectos destacados
+<p align="left">
+<a href="https://github.com/adricego">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adricego&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adricego&layout=compact&langs_count=7&theme=algolia"/>
+  <img align="180en" src="https://github-readme-streak-stats.herokuapp.com/?user=adricego&theme=algolia"/>
+</a>
+</p>
 
-- 🎒 [Portafolio Web Personal](https://adricego.github.io/myPortfolio/)  
-  Página web para mostrar mi perfil profesional y proyectos. Hecha con HTML, CSS y JavaScript.
-
-- ✅ [To-Do List con Kivy y SQLite](https://github.com/Adricego/toDoList)  
-  Aplicación móvil desarrollada con Python y Kivy, permite gestionar tareas con almacenamiento local.
-
-- 📘 [Clases de Programación - GitHub](https://github.com/Adricego/clase1---clasesprogramacion-github)  
-  Repositorio para acompañar a estudiantes en sus primeras clases de programación.
-
-
-## 🧠 Cursos realizados
-
-| Curso | Plataforma | Costo |
-|-------|------------|-------|
-| [Fundamentos de Python](https://ucamp.io/curso-python/) | Ucamp | 💰 |
-| [Bootcamp IA y Ciencia de Datos](https://ucamp.io/curso-ciencia-de-datos/) | Ucamp | 💰 |
-| Ciberseguridad y Hacking Ético | [Brujería Tech - Twitch](https://www.twitch.tv/brujeriatech) | 💰 |
-| Programación desde cero | [Gratis en YouTube](https://www.youtube.com/@brujeriatech) | ✅ |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!--Linkedin--->
+<a href="https://www.linkedin.com/in/diegofelipecortes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+<!--Instagram--->
+<a href="https://www.instagram.com/mr.diego.tech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+</p>
 
 
-## 📲 Redes sociales
-
-- 📸 [@diego.8bit en Instagram](https://instagram.com/diego.8bit?igshid=ZDdkNTZiNTM=)
-- 🐙 [GitHub: Adricego](https://github.com/Adricego)
 
 ---
 
