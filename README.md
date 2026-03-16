@@ -7,7 +7,11 @@ Busco oportunidades donde pueda seguir aprendiendo, aportar desde lo técnico, y
 
 ## 🛠 Tecnologías que manejo
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,nodejs,react,vite,mysql,postgres,docker,postman,figma,git,github,vscode,windows,npm,pnpm,md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,flask,nodejs,react,vite,mysql,docker,git,github,vscode,windows,md)](https://skillicons.dev)
+
+## Tecnologías en nivel básico
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,postman,figma,npm,pnpm)](https://skillicons.dev)
 
 - Desarrollo de prototipos web simples con **Python (Flask)** y **JavaScript (React + Vite)**
 - Consumo de APIs REST y operaciones CRUD
